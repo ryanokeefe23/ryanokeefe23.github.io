@@ -1,0 +1,25 @@
+Body
+h1{ color: White; }
+h2{ color: white; }
+P{ color: white; }
+
+body{
+	font-size: 18pt;
+	background: red;
+	color: blue
+}
+
+NAV
+a {
+	Display: Block;
+	border: 2px solid blue;
+	color: white;
+	background: slateblue;
+}
+a:hover {
+	color: yellow;
+}
+
+nav a{
+	display: inline-block;
+}

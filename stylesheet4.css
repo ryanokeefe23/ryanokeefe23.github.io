@@ -1,0 +1,27 @@
+Body
+h1{ color: dodgerblue; }
+h2{ color: orange; }
+P{ color: navy; }
+
+body{
+	font-size: 18pt;
+	background: green
+}
+		
+
+NAV
+a {
+	Display: Block;
+	border: 2px solid blue;
+	color: red;
+	background: slateblue;
+}
+a:hover {
+	color: yellow;
+}
+
+nav a{
+	display: inline-block;
+}
+</NAV>
+
